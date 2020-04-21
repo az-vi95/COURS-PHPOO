@@ -5,7 +5,7 @@ class User
      * attribut de classe avec une valeur par défaut
      * @var string 
      */
-    public $firstname = 'Ja'; //  $firstname est une variable
+    public $firstname = 'Jax'; //  $firstname est une variable
 
     /**
      *  attribut sans valeur par défaut (=null)
